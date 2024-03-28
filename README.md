@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&random=false&width=435&lines=Hi+Visitor+!!!%F0%9F%91%8B;I'm+XuanDongDev+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+Visitor!!!%F0%9F%91%8B;I+am+XuanDongDev+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Xuan Dong Bui. I am currently studying Information Systems at Can Tho University. I am interested in the following topics: Mobile and Database Development. I am committed to enhancing my knowledge and personal development day by day. Thanks for your visiting!!!<br>
