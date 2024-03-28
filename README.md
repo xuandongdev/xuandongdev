@@ -8,11 +8,10 @@ My name is Xuan Dong Bui. My major is Information Systems at Can Tho University.
 
 
 # 📊 XuanDong's GitHub Stats :
-<p alight="center">
-<img src="https://github-readme-stats.vercel.app/api?username=XuanDongDev&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuanDongDev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-</p></br><img src="https://github-readme-streak-stats.herokuapp.com/?user=XuanDongDev&theme=radical&hide_border=false">
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=XuanDongDev&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XuanDongDev&theme=midnight-purple&hide_border=false">
+</p></br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuanDongDev&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
