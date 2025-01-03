@@ -2,7 +2,7 @@
 
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Xuan Dong Bui. My major is Information Systems at Can Tho University. I am interested in the following topics: Mobile and Database Development. I am committed to enhancing my knowledge and personal development day by day. Thanks for your visiting!!!<br>
-## 📫 You can contact me at: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nauXgnoD.Y) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__xuandong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xuandongdev) 
+## 📫 You can reach me at: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nauXgnoD.Y) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__xuandong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xuandongdev) 
 
 
 
